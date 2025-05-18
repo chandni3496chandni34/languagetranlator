@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+easyocr
+gTTS
+playsound==1.2.2
+googletrans==4.0.0rc1
+SpeechRecognition
+pyaudio
